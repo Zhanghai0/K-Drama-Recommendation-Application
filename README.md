@@ -1,6 +1,7 @@
 # K-Drama-Recommendation-Application
 
-# ShinyApp:
+# ShinyApp:  
+https://zhanghai0.shinyapps.io/K-Drama/
 
 # Introduction
 Finding a drama similar to those you enjoy is difficult. Many different implementations of recommendation systems, and in this visualization, I plan to implement a simple version of this by assigning a similarity score to the dramas selected and then ordering the dramas by ranking. Some other visualization details will also be implemented, for the user to understand more about similar dramas.
