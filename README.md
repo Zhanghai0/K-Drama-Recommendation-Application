@@ -20,4 +20,4 @@ The recommendation engine calculates a similarity score to find connections betw
 - User Input: Three selectInput widgets allow users to choose dramas from a searchable sidebar.
 - Dynamic Bar Graph: A horizontal bar graph (built with Plotly) displays the top ten most similar dramas.
 - Hover Interactivity: Hovering over a bar reveals metadata such as titles and specific genres.
-- Click-to-View Synopsis: Registered \plotly_click\ events allow users to click a bar to display a string-wrapped synopsis of the drama below the graph.
+- Click-to-View Synopsis: Registered `plotly_click` events allow users to click a bar to display a string-wrapped synopsis of the drama below the graph.
